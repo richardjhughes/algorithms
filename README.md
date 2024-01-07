@@ -1,2 +1,3 @@
-# algorithms
-General algorithms
+# Algorithms
+
+General algorithm implementations.
